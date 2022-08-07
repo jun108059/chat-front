@@ -1,6 +1,6 @@
 # Chat Front-End
 
-![chat-gif](https://user-images.githubusercontent.com/42997924/183304631-602f6839-7572-49c2-bf97-d3e68b3adab7.gif)
+![Chat-DEMO](https://user-images.githubusercontent.com/42997924/183304809-700cd66a-e5e7-459d-a9b9-853528e9437f.gif)
 
 > 의존성 관리 : Yarn Berry    
 > React App
